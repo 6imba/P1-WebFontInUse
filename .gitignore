@@ -1,0 +1,53 @@
+node_modules
+virenv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Python cache files
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+
+# Environment variable file (if you use dotenv)
+.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Development specific
+*.log
+*.sqlite3
+*.swp
+
+# IDE specific files (e.g., VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Compiled Python files and packages
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore local configuration files
+# Add other files/directories specific to your project if needed
